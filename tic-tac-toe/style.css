@@ -118,3 +118,7 @@
     border-radius: 30px;
     width: 110px;
 }
+/* hiding content */
+.hide{
+    display: none;
+}
