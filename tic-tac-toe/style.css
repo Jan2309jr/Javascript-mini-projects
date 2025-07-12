@@ -122,3 +122,26 @@
 .hide{
     display: none;
 }
+
+@media (max-width: 768px) {
+  .nav h1 {
+    font-size: 1.5rem;
+  }
+  .nav button {
+    font-size: 0.8rem;
+    width: 80px;
+  }
+  .box {
+    width: 300px;
+    height: 300px;
+  }
+  .btn {
+    width: 30%;
+    height: 30%;
+    font-size: 2rem;
+  }
+  .R-btn, .rbtn-bottom {
+    width: 90px;
+    font-size: 0.9rem;
+  }
+}
